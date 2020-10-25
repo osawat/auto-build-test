@@ -1,2 +1,2 @@
-FROM dockersamples/statec-state
+FROM dockersamples/static-site 
 ENV  AUTHOR="John Due"
